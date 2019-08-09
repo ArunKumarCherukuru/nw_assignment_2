@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="NewLoginTest"
+    errors="0" failures="1" hostname="" id="" package="NewLoginTest" skipped="3"
+    tests="2" time="16.59" timestamp="">
+  
+    <testcase name="New Login Test" classname="NewLoginTest" time="4.197" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Verifying TAB functionality" classname="NewLoginTest" time="12.39" assertions="2">
+
+      <failure message="Testing if element &lt;input[name=password]:focus&gt; is present in 1000 ms. - expected [0;32m&#34;present&#34;[0m but got: [0;31m&#34;not present&#34;[0m">    at Object.Verifying TAB functionality (D:\nodejs\NightWatch\Assignments\FinalTestDemo\tests\NewLoginTest.js:21:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    <failure message="    at Object.Verifying TAB functionality (D:\nodejs\NightWatch\Assignments\FinalTestDemo\tests\NewLoginTest.js:21:21)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+    
+    <testcase
+      name="Verifying login functionality with valid credentials" classname="NewLoginTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Verifying the place holders for username and password" classname="NewLoginTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Verifying the simulation of backward button after login" classname="NewLoginTest">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

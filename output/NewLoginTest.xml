@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="0">
+
+  <testsuite name="NewLoginTest"
+    errors="1" failures="0" hostname="" id="" package="NewLoginTest" skipped="5"
+    tests="0" time="0.000" timestamp="">
+  
+
+  
+
+  
+    
+    <testcase
+      name="New Login Test" classname="NewLoginTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Verifying TAB functionality" classname="NewLoginTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Verifying login functionality with valid credentials" classname="NewLoginTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Verifying the place holders for username and password" classname="NewLoginTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Verifying the simulation of backward button after login" classname="NewLoginTest">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
